@@ -10,10 +10,10 @@
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Update Student Marks</a>
+          <a class="nav-link active" aria-current="page" href="#">Assign Proctors</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Update Meeting Details</a>
+          <a class="nav-link active" aria-current="page" href="#">Get Report</a>
         </li>
       </ul>
       <ul class="navbar-nav navbar-right ms-auto mb-2 mb-lg-0">
